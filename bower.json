@@ -1,0 +1,24 @@
+{
+  "name": "angular-current-time",
+  "version": "0.0.1",
+  "authors": [
+    "André da Silva Medeiros <andr3medeiros@gmail.com>"
+  ],
+  "description": "Displays continuously the current time in the given format",
+  "main": "./angular-current-time.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "current-time",
+    "angular-current-ime"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/andr3medeiros/angular-current-time",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
